@@ -1,2 +1,2 @@
-# BlogPage_Flask
-A Blog page made with Flask as the framework, Bootstrap for styling, and MySql for database
+# Blarticle_Blog_Articles
+A platfrom to publish articles. Made with Flask and Bootstrap as the framework, and uses MySQL for database.
